@@ -1,4 +1,4 @@
-dist/
+
 www/
 loader/
 docs-www/
@@ -25,4 +25,4 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-.env
+config.bat
