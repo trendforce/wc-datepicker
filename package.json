@@ -39,12 +39,11 @@
       ]
     }
   },
-  "dependencies": {
-    "@stencil/core": "^2.13.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@changesets/changelog-github": "^0.4.7",
     "@changesets/cli": "^2.25.0",
+    "@stencil/core": "^2.13.0",
     "@stencil/postcss": "^2.1.0",
     "@types/jest": "^27.0.3",
     "autoprefixer": "^10.4.12",
